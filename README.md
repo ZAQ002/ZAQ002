@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZAQ002
 - 👀 I’m interested in Programming
-- 🌱 I’m in Bachelors of Computer Engineering
+- 🌱 I’m a student of Bachelors of Computer Engineering
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: iamzubairahmed02@gmail.com
 
